@@ -1,0 +1,72 @@
+/*
+///
+// +--------------------------------------------------------------------------------------------------------+
+// | AKA Mail - Revision 1.0                                                                                |
+// | Copyright (c) 2003 AKA Link Communications Corporation, Joseph P. Marino, Jonathan Fortin              |
+// +--------------------------------------------------------------------------------------------------------+
+// | Authors: Joseph P. Marino <joseph@marino.net> and Jonathan Fortin <jonathan@fortin.com>                |
+// +--------------------------------------------------------------------------------------------------------+
+// | AGPLv3 License                                                                                         |
+// |                                                                                                        |
+// | This file is part of AKA Mail.                                                                         |
+// |                                                                                                        |
+// | AKA Mail is free software: you can redistribute it and/or modify it under the terms of the             |
+// | GNU Affero General Public License as published by the Free Software Foundation, either version 3       |
+// | of the License, or (at your option) any later version.                                                 |
+// |                                                                                                        |
+// | AKA Mail is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even     |
+// | the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.                           |
+// |                                                                                                        |
+// | See the GNU Affero General Public License for more details.                                            |
+// |                                                                                                        |
+// | You should have received a copy of the GNU Affero General Public License along with AKA Mail.          |
+// | If not, see <https://www.gnu.org/licenses/>.                                                           |
+// +--------------------------------------------------------------------------------------------------------+
+///
+*/
+
+.akalink {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #313131;
+}
+
+.dropdowns {
+	BORDER-RIGHT: #bababa 1px solid; BORDER-TOP: #bababa 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #bababa 1px solid; COLOR: #000000; BORDER-BOTTOM: #bababa 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+
+.textfields {
+	BORDER-RIGHT: #bababa 1px solid; BORDER-TOP: #bababa 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #bababa 1px solid; COLOR: #000000; BORDER-BOTTOM: #bababa 1px solid; FONT-FAMILY: Arial, Helvetica, sans-serif;
+}
+
+.headers {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+
+.unnamed1 {
+	border: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #313131;
+}
+
+.akamail-compose {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	width: 680px;
+	height: 150px;
+}
