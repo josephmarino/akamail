@@ -1,0 +1,5 @@
+#AKAMail Task
+PATH='/usr/local/bin'
+
+0       6       *       *       *       /usr/local/akld/www/mail.akalink.com/include/schedule/daily.php
+0       0       *       *       6       /usr/local/akld/www/mail.akalink.com/include/schedule/weekly.php

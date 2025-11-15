@@ -1,0 +1,58 @@
+<!--
+/// 
+// +--------------------------------------------------------------------------------------------------------+
+// | AKA Mail - Revision 1.0                                                                                |
+// | Copyright (c) 2003 AKA Link Communications Corporation, Joseph P. Marino, Jonathan Fortin              |
+// +--------------------------------------------------------------------------------------------------------+
+// | Authors: Joseph P. Marino <joseph@marino.net> and Jonathan Fortin <jonathan@fortin.com>                |
+// +--------------------------------------------------------------------------------------------------------+
+// | AGPLv3 License                                                                                         |
+// |                                                                                                        |
+// | This file is part of AKA Mail.                                                                         |
+// |                                                                                                        |
+// | AKA Mail is free software: you can redistribute it and/or modify it under the terms of the             |
+// | GNU Affero General Public License as published by the Free Software Foundation, either version 3       |
+// | of the License, or (at your option) any later version.                                                 |
+// |                                                                                                        |
+// | AKA Mail is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even     |
+// | the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.                           |
+// |                                                                                                        |
+// | See the GNU Affero General Public License for more details.                                            |
+// |                                                                                                        |
+// | You should have received a copy of the GNU Affero General Public License along with AKA Mail.          |
+// | If not, see <https://www.gnu.org/licenses/>.                                                           |
+// +--------------------------------------------------------------------------------------------------------+
+///
+-->
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body onLoad="MM_preloadImages('email_accounts_dp.jpg')"><table width="800" height="12" border="0" cellpadding="0" cellspacing="0">
+<tr bgcolor="80ADC1"> 
+    <td height="2"><img src="/img/linesp.jpg" width="24" height="25"><a href="http://<? print($mail->server['main']); ?>/login/compose/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image111','','/img/compose_eml_d.jpg',1)"><img src="/img/compose_eml_u.jpg" name="Image111" width="101" height="25" border="0" id="Image111" onMouseOver="window.status='Compose a New E-Mail'; return true;" onMouseOut="window.status=''; return true;"></a><img src="/img/linesp.jpg" width="24" height="25"><a href="http://<? print($mail->server['main']); ?>/login/addressbook/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image121','','/img/address_book_d.jpg',1)"><img src="/img/address_book_u.jpg" name="Image121" width="114" height="25" border="0" id="Image121" onMouseOver="window.status='View Your Address Book'; return true;" onMouseOut="window.status=''; return true;"></a><img src="/img/linesp.jpg" width="24" height="25"><a href="http://<? print($mail->server['main']); ?>/login/othermail/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image12','','/img/email_accounts_dp.jpg',1)"><img src="/img/email_accounts_tp.jpg" name="Image12" width="108" height="25" border="0" onMouseOver="window.status='Manage Your E-Mail Accounts'; return true;" onMouseOut="window.status=''; return true;"></a><img src="/img/linesp.jpg" width="24" height="25"><a href="http://<? print($mail->server['main']); ?>/login/options/04/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image201','','/img/espm_filt_d.jpg',1)"><img src="/img/espm_filt_u.jpg" name="Image201" width="115" height="25" border="0" id="Image201" onMouseOver="window.status='Manage E-Mail Spam Filter Settings'; return true;" onMouseOut="window.status=''; return true;"></a><img src="/img/linesp.jpg" width="24" height="25"><a href="http://<? print($mail->server['main']); ?>/logout/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image221','','/img/btn_logout_d.jpg',1)"><img src="/img/btn_logout_u.jpg" name="Image221" width="58" height="25" border="0" id="Image221" onMouseOver="window.status='Logout of AKAMail'; return true;" onMouseOut="window.status=''; return true;"></a><img src="/img/linesp.jpg" width="24" height="25"></td>
+</tr>
+</table>
