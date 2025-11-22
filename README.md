@@ -4,13 +4,12 @@
 
 AKA Mail is a webmail application written in PHP, HTML, CSS, and JavaScript by [Joseph P. Marino](https://josephmarino.net) and [Jonathan Fortin](https://www.linkedin.com/in/jonathan-f-49499b51/) while Joseph and Jonathan were at [AKA Link Communications](https://www.akalink.com), a web hosting company that they both co-founded in the year 2000. AKA Mail was developed in the early 2000s to run on [FreeBSD](https://www.freebsd.org) with daemons such as [qmail](https://cr.yp.to/qmail.html), [vpopmail](https://www.inter7.com/vpopmail-virtualized-email/), [MySQL](https://github.com/mysql/mysql-server), and Apache's [httpd](https://httpd.apache.org/). AKA Mail was designed as an enterprise-grade webmail system built to serve a large number of users.
 
-AKA Mail was offered to small and medium-sized businesses in the early 2000s as a software-as-a-service (SaaS) product by AKA Link Communications.
-
+AKA Mail was offered by AKA Link Communications to small and medium-sized businesses in the early 2000s as a software-as-a-service (SaaS) product.
 ## A little bit about the codebase
-If you would like to familarize yourself with the codebase, the best place to start is with the [akamail.class](https://github.com/josephmarino/akamail/blob/main/src/include/akamail.class) file in the ``include`` folder. This class file contains many reusable functions that power AKA Mail. The object orientated programming (OOP) paradigm was practiced as much as possible when writing code for AKA Mail.
+If you would like to familiarize yourself with the codebase, the best place to start is with the [akamail.class](https://github.com/josephmarino/akamail/blob/main/src/include/akamail.class) file in the ``include`` folder. This class file contains many reusable functions that power AKA Mail. The object-oriented programming (OOP) paradigm was practiced as much as possible when writing code for AKA Mail.
 
 ### Contributions
-AKA Mail's codebase is freely available for anyone to use in their own projects or to learn from. All contributions are welcome, but be forewarned, this codebase has not been touched in over a decade. A lot of work would need to be done to modernize AKA Mail, the codebase is as it was last used in a production environment in the early 2000s 😃
+AKA Mail's codebase is freely available for anyone to use in their own projects or to learn from. All contributions are welcome, but be forewarned, this codebase has not been touched in over a decade. A lot of work would need to be done to modernize AKA Mail — the codebase is as it was last used in a production environment in the early 2000s 😃
 
 When AKA Mail was originally designed, no mobile computing devices such as the iPhone or iPad existed, so the UI is not responsive. Many PHP functions most likely have to be rewritten due to feature deprecation in the PHP language.
 
