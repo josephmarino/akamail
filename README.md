@@ -11,7 +11,7 @@ If you would like to familiarize yourself with the codebase, the best place to s
 ### Contributions
 AKA Mail's codebase is freely available for anyone to use in their own projects or to learn from. All contributions are welcome, but be forewarned, this codebase has not been touched in over a decade. A lot of work would need to be done to modernize AKA Mail — the codebase is as it was last used in a production environment in the early 2000s 😃
 
-When AKA Mail was originally designed, no mobile computing devices such as the iPhone or iPad existed, so the UI is not responsive. Many PHP functions most likely have to be rewritten due to feature deprecation in the PHP language.
+When AKA Mail was originally designed, no mobile computing devices such as the iPhone or iPad existed, so the UI is not responsive. Many PHP functions likely have to be rewritten due to at least feature deprecation in the PHP language.
 
 ## Key Features
 - Use S/MIME certificates to send/receive encrypted and/or signed e-mails
