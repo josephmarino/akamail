@@ -204,6 +204,7 @@ akamail
 ```
 
 ## License
-Licensed under the [AGPL](./LICENSE) license.
+AKA Mail is licensed under the [GNU Affero General Public License (AGPL)](./LICENSE) license. Libraries included with AKA Mail have their own open source licenses. The license for AKA Mail and each library is located in the [LICENSE](./LICENSE) file. The LICENSE file can be found in the root directory of this repo. Please review each library's license before deciding to use any library in your own project.
 
-Copyright (c) AKA Link Communications Corporation, [Joseph P. Marino](https://josephmarino.net) and [Jonathan Fortin](https://www.linkedin.com/in/jonathan-f-49499b51/)
+
+Copyright (c) 2003 AKA Link Communications Corporation, [Joseph P. Marino](https://josephmarino.net) and [Jonathan Fortin](https://www.linkedin.com/in/jonathan-f-49499b51/)
