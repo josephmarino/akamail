@@ -2,9 +2,10 @@
 
 [Key Features](#key-features) | [User Interface Screenshots](#screenshots) | [Key Features List](#key-features-list)
 
-AKA Mail is a webmail application written in PHP, HTML, CSS, and JavaScript by [Joseph P. Marino](https://josephmarino.net) and [Jonathan Fortin](https://www.linkedin.com/in/jonathan-f-49499b51/) while Joseph and Jonathan were at [AKA Link Communications](https://www.akalink.com), a web hosting company that they both co-founded in the year 2000. AKA Mail was developed in the early 2000s to run on [FreeBSD](https://www.freebsd.org) with daemons such as [qmail](https://cr.yp.to/qmail.html), [vpopmail](https://www.inter7.com/vpopmail-virtualized-email/), [MySQL](https://github.com/mysql/mysql-server), and Apache's [httpd](https://httpd.apache.org/). AKA Mail was designed as an enterprise-grade webmail system built to serve a large number of users.
+AKA Mail is a webmail application written in PHP, HTML, CSS, and JavaScript by [Joseph P. Marino](https://josephmarino.net) and [Jonathan Fortin](https://www.linkedin.com/in/jonathan-f-49499b51/) while Joseph and Jonathan were at [AKA Link Communications](https://www.akalink.com), a web hosting company that they both co-founded in the year 2000. 
 
-AKA Mail was offered by AKA Link Communications to small and medium-sized businesses in the early 2000s as a software-as-a-service (SaaS) product.
+AKA Mail was developed in the early 2000s to run on [FreeBSD](https://www.freebsd.org) with daemons such as [qmail](https://cr.yp.to/qmail.html), [vpopmail](https://www.inter7.com/vpopmail-virtualized-email/), [MySQL](https://github.com/mysql/mysql-server), and Apache's [httpd](https://httpd.apache.org/). It was designed as an enterprise-grade webmail system built to serve a large number of users. In the early 2000s, AKA Link Communications offered AKA Mail as a software-as-a-service (SaaS) product to small and medium-sized businesses.
+
 ## A little bit about the codebase
 If you would like to familiarize yourself with the codebase, the best place to start is with the [akamail.class](https://github.com/josephmarino/akamail/blob/main/src/include/akamail.class) file in the ``include`` folder. This class file contains many reusable functions that power AKA Mail. The object-oriented programming (OOP) paradigm was practiced as much as possible when writing code for AKA Mail.
 
