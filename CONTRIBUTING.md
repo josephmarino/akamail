@@ -26,7 +26,7 @@ Thank you for wanting to contribute to AKA Mail. A lot of work is needed to mode
 
 ## I found a bug or vulnerability, how do I report it?
 
-Awesome! Please share your finding with us by [openning a new issue ticket](https://github.com/josephmarino/akamail/issues/new). When you are creating the ticket, tag the ticket with either the "bug" or "vuln" tag then describe in detail what you found. Also, very important, please provide clear instructions on how we can reproduce the bug or vulnerability. A maintainer will review your issue ticket as soon as possible and get back to you with any feedback.  
+Awesome! Please share your finding with us by [openning a new issue ticket](https://github.com/josephmarino/akamail/issues/new). When you are creating the ticket, tag the ticket with either the "bug" or "vuln" tag then describe in detail what you found. Also, very important, please provide clear instructions on how we can reproduce the bug or vulnerability. If you have a fix for the vulnerability or bug, please feel free to write a fix and contribute the code for the fix. 
 
 ## I have an idea for a new feature, how do I share it?
 
