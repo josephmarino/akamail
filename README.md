@@ -19,7 +19,7 @@ When AKA Mail was originally designed, no mobile computing devices such as the i
 - Co-brandable UI 
 - Auto-responder
 - Invisible read receipts that tell you whether or not a person has read your e-mail
-- Send/Receive e-mail with your domain name using any POP e-mail account. 
+- Send/Receive e-mail with your domain name using any POP e-mail account 
 
 ## Screenshots
 ![SS00](.github/git-readme/ss_0.jpg)
