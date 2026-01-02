@@ -30,6 +30,6 @@ If you would like to share an idea for a new feature please [open a new issue ti
 
 ## I don't want to contribute, I just have a question.
 
-Cool! You can [open a new issue ticket](https://github.com/josephmarino/akamail/issues/new) and tag it with the "question" tag and ask your question. Please keep in mind that as of the time of writing this sentence, AKA Mail does not have an active community of developers, so it may take some time to respond to your question. 
+Cool! You can [open a new issue ticket](https://github.com/josephmarino/akamail/issues/new) and tag it with the "question" tag and ask your question. Please keep in mind that AKA Mail does not have an active community of developers, so it may take some time to respond to your question. 
 
 It is always recommend that everyone read the AKA Mail documentation first before opening a ticket with a question, as the answer that you are looking for could be in the documentation.
