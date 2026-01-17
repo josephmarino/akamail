@@ -1,3 +1,0 @@
-# GitHub Linguist seems to not be detecting CSS and JavaScript files incorrectly, so adding an override.:
-*.css linguist-language=CSS
-*.js linguist-language=JavaScript
