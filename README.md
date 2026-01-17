@@ -80,9 +80,9 @@ The inbox shows incoming e-mail from all POP e-mail accounts that you have added
 
 ### Manage multiple e-mail accounts
 A user can add multiple POP e-mail accounts to AKA Mail. After a user adds an e-mail account to AKA Mail, the user can use AKA Mail to access their e-mail account and take advantage of all the features that AKA Mail offers, such as reading, sending, and receiving e-mail.
-1. Add/Remove any POP e-mail account
+1. Add/Remove any POP e-mail account.
 1. Ability to color coordinate e-mails sent to multiple accounts (i.e., all mail sent/received with jonathan@akalink.com will be green and all e-mail sent/received with jonathan@freebsd.org will be blue)
-1. Save incoming e-mail messages for a specific account to the inbox or a custom named folder 
+1. Save incoming e-mail messages for a specific account to the inbox or a custom named folder. 
 1. Option to leave e-mail messages on the server forever, or to delete an e-mail when it is a day old, week old or month old. 
 
 ### Auto-response System (Automatic Out of Office Replies)
