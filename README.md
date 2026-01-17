@@ -94,7 +94,7 @@ This feature allows users to block e-mail messages from specific domains or e-ma
 ### Manage Signatures
 Users can create text or HTML based signature blocks that can either be automatically inserted to every e-mail they reply to or every new e-mail they compose. If the user does not want automatic insertion of a signature, the user could control when they would like to insert their signature by simply checking the insert signature checkbox and selecting the signature they would like to insert when they are writing an e-mail. 
 
-If the user would like to create an HTML based signature, the user will be shown a WYSYIWYG editor, so that they can easily create a cool looking signature - images are supported. For plain old text signatures, the user can use either the WYSIWYG editor or a plain textbox field to create their plain text signature.
+If the user would like to create an HTML based signature, the user will be shown a WYSYIWYG editor, so that they can easily create a cool looking signature — images are supported. For plain old text signatures, the user can use either the WYSIWYG editor or a plain textbox field to create their plain text signature.
 
 ### Private Mode
 When a user enables private mode, all e-mail messages from users that are not listed in their address book will be deleted, and the sender who is not listed in the user's address book will receive a bounced e-mail message  stating that the user's e-mail address does not exist.
