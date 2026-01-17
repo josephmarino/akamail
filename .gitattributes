@@ -1,3 +1,5 @@
 *.tpl linguist-language=Smarty
 *.css linguist-language=CSS
 *.js linguist-language=JavaScript
+*.class linguist-language=PHP
+*.php linguist-language=PHP
