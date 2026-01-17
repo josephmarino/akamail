@@ -10,7 +10,7 @@ AKA Mail was developed in the early 2000s to run on [FreeBSD](https://www.freebs
 If you would like to familiarize yourself with the codebase, the best place to start is with the [akamail.class](https://github.com/josephmarino/akamail/blob/main/src/include/akamail.class) file in the ``include`` folder. This class file contains many reusable functions that power AKA Mail. The object-oriented programming (OOP) paradigm was practiced as much as possible when writing code for AKA Mail.
 
 ### Contributions
-AKA Mail's codebase is freely available for anyone to use in their own projects or to learn from. All contributions are welcome, but be forewarned, this codebase has not been touched in over a decade. A lot of work would need to be done to modernize AKA Mail — the codebase is as it was last used in a production environment in the early 2000s 😃
+This repository serves as an archive for AKA Mail's codebase. The codebase is freely available for anyone to use in their own projects or to learn from. All contributions are welcome, but be forewarned, this codebase has not been touched in over a decade. A lot of work would need to be done to modernize AKA Mail — the codebase is as it was last used in a production environment in the early 2000s 😃
 
 When AKA Mail was originally designed, no mobile computing devices such as the iPhone or iPad existed, so the UI is not responsive. Many PHP functions likely have to be rewritten due to at least feature deprecation in the PHP language.
 
