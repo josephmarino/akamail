@@ -73,7 +73,7 @@ The inbox shows incoming e-mail from all POP e-mail accounts that you have added
 1. Set priority: set the priority of an e-mail to low, high or none
 1. Send from a specific account: if you have multiple accounts loaded into AKA Mail, you could select an e-mail account to send from
 1. Add attachments: easily add any type of attachment to an e-mail
-1. Include original message: If you are replying to an e-mail, you could select whether or not to include the original message in your reply
+1. Include original message: If you are replying to an e-mail, you could select whether or not to include the original message in your reply.
 1. Save as draft
 1. Insert signature: you can manually insert your signature to your e-mail. The signature could be in plain text or rich text. Rich text supports HTML, such as img insertion.
 1. Express Book: Express Book is a list of the top five people that you like to e-mail. You can either set these five addresses yourself, or it will populate on its own based on the most five people you frequently e-mail. Using the express book is simple; select either the to, cc, or bcc textbox, then click an address listed in the express book to quickly add that address to the textbox that you've selected. For example, if you selected the bcc textbox and selected joseph@akalink.com in the express book, then joseph@akalink.com will be added to the bcc textbox.
