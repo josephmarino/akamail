@@ -71,7 +71,7 @@ The inbox shows incoming e-mail from all POP e-mail accounts that you have added
 ### Compose e-mail  
 1. Plain text or rich text mode: Write your e-mail message in either rich text or plain text
 1. Set priority: set the priority of an e-mail to low, high or none
-1. Send from a specific account: if you have multiple accounts loaded into AKA Mail, you could select an e-mail account to send from
+1. Send from a specific account: if you have multiple accounts loaded into AKA Mail, you could select an e-mail account to send from.
 1. Add attachments: easily add any type of attachment to an e-mail
 1. Include original message: If you are replying to an e-mail, you could select whether or not to include the original message in your reply.
 1. Save as draft
